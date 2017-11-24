@@ -1,0 +1,43 @@
+body {
+  background-color: black;
+}
+
+p {
+  font-family: verdana;
+  font-weight: normal;
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+
+video {
+  position: relative;
+  left: 475px;
+}
+
+#subtitles {
+font-family: Georgia;
+font-weight: 300;
+font-size: 42px;
+color:blue;
+
+}
+
+.imageA {
+
+  position: relative;
+  left: 250px;
+}
+
+.imageB {
+position: relative;
+  top: 50px;
+  left: 650px;
+}
+
+#link {
+  font-family: verdana;
+  color: blue;
+  font-size: 18px;
+  text-decoration: underline;
+}
